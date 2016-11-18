@@ -1,3 +1,3 @@
 # formangular
 
-a single form using angualr without saving anything to database :)
+a single form using angualar without saving anything to database :)
